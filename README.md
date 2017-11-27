@@ -1,3 +1,3 @@
-# bachelor_tasks
+# intern_tasks
 
-中国科学院软件研究所软件工程技术研发中心云计算组实习生任务及成果展示。
+Intern's tasks of cloud computing group, OTC, ISCAS.
